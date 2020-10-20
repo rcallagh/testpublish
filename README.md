@@ -12,7 +12,7 @@
 
 This repo stores notes on papers concerning diffusion MRI microstructure imaging techniques and their validation.
 
-The main file is <20201019-dmri_validation.md> which has the structure of the review and links to notes on relevant papers.
+The main file is [20201019-dmri<sub>validation</sub>](20201019-dmri_validation.md) which has the structure of the review and links to notes on relevant papers.
 
 
 <a id="org1097f16"></a>
