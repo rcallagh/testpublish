@@ -2,13 +2,14 @@
 # Table of Contents
 
 1.  [Validation strategies for the interpretation of microstructure imaging using diffusion MRI](#Dyrby2018)
-    1.  [SUMMARY](#orgf9fa5bf)
-        1.  [Purpose](#org499399b)
-        2.  [Approach](#orgfa83476)
-        3.  [Results](#orge07452d)
-        4.  [Thoughts](#org1821aa3)
+    1.  [SUMMARY](#orge729520)
+        1.  [Purpose](#orgc129b67)
+        2.  [Approach](#org0d1bb8b)
+        3.  [Results](#org43655a4)
+        4.  [Thoughts](#org968cfbd)
 
 -   **tags:** [dMRI Validation](20201019-dmri_validation.md)
+-   **file:** <pdfs/Dyrby - 2018 - Validation strategies for the interpretation of mi.pdf>
 
 
 <a id="Dyrby2018"></a>
@@ -16,27 +17,27 @@
 # Validation strategies for the interpretation of microstructure imaging using diffusion MRI
 
 
-<a id="orgf9fa5bf"></a>
+<a id="orge729520"></a>
 
 ## SUMMARY
 
 
-<a id="org499399b"></a>
+<a id="orgc129b67"></a>
 
 ### Purpose
 
 
-<a id="orgfa83476"></a>
+<a id="org0d1bb8b"></a>
 
 ### Approach
 
 
-<a id="orge07452d"></a>
+<a id="org43655a4"></a>
 
 ### Results
 
 
-<a id="org1821aa3"></a>
+<a id="org968cfbd"></a>
 
 ### Thoughts
 

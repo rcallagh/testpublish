@@ -1,43 +1,43 @@
 
 # Table of Contents
 
-1.  [dMRI Validation Lit Review](#orge726995)
-    1.  [Validation of microstructure techniques](#org9eddf2f)
-        1.  [List of papers](#orge6dde0b)
-    2.  [Application/added value of dMRI techniques](#org5b24ec6)
-        1.  [List of papers](#org6919252)
+1.  [dMRI Validation Lit Review](#org34e7388)
+    1.  [Validation of microstructure techniques](#org23a114a)
+        1.  [List of papers](#org3cbf07d)
+    2.  [Application/added value of dMRI techniques](#org1dfe7a9)
+        1.  [List of papers](#orgdea1de8)
 
 
 
-<a id="orge726995"></a>
+<a id="org34e7388"></a>
 
 # dMRI Validation Lit Review
 
 This is a literature review for AINOSTICS on the use and validation of dMRI microstructure imaging techniques.
 
 
-<a id="org9eddf2f"></a>
+<a id="org23a114a"></a>
 
 ## Validation of microstructure techniques
 
 The idea of this section is building a case for diffusion imaging and how the observed signal or the resulting maps/models relate to cellular biology and what is driving the signal being acquired. This can include work with synthetic, digital and tissue phantoms; animal and histology studies, etc.
 
 
-<a id="orge6dde0b"></a>
+<a id="org3cbf07d"></a>
 
 ### List of papers
 
 -   [Dyrby, T. B.: Validation strategies for the interpretation of microstructure imaging using diffusion MRI](dyrby2018.md)
 
 
-<a id="org5b24ec6"></a>
+<a id="org1dfe7a9"></a>
 
 ## Application/added value of dMRI techniques
 
 The idea of this section is how diffusion imaging derived parameters have been shown to offer value in diagnosing neurological conditions (with a focus on neurodegeneration), and any validation work around this.
 
 
-<a id="org6919252"></a>
+<a id="orgdea1de8"></a>
 
 ### List of papers
 
