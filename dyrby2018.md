@@ -9,7 +9,7 @@
         4.  [Thoughts](#org968cfbd)
 
 -   **tags:** [dMRI Validation](20201019-dmri_validation.md)
--   **file:** [PDF](pdfs/Dyrby - 2018 - Validation strategies for the interpretation of mi.pdf)
+-   **file:** [PDF](pdfs/Dyrby2018.pdf)
 
 
 <a id="Dyrby2018"></a>
