@@ -9,7 +9,7 @@
         4.  [Thoughts](#org116023e)
 
 -   **tags:** [dMRI Validation](20201019-dmri_validation.md)
--   **file:** [PDF](pdfs/Kamiya et al. - 2020 - NODDI in clinical research.pdf)
+-   **file:** [PDF](pdfs/Kamiya2020.pdf)
 
 
 <a id="Kamiya2020"></a>
