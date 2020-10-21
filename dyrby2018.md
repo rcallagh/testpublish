@@ -7,6 +7,7 @@
         2.  [Approach](#org0d1bb8b)
         3.  [Results](#org43655a4)
         4.  [Thoughts](#org968cfbd)
+2.  [Backlinks](#orgcb826e7)
 
 -   **tags:** [dMRI Validation](20201019-dmri_validation.md)
 -   **file:** [PDF](pdfs/Dyrby2018.pdf)
@@ -26,6 +27,8 @@
 
 ### Purpose
 
+This is a review paper summarising some of the approaches for validating microstructure imaging.
+
 
 <a id="org0d1bb8b"></a>
 
@@ -40,4 +43,11 @@
 <a id="org968cfbd"></a>
 
 ### Thoughts
+
+
+<a id="orgcb826e7"></a>
+
+# Backlinks
+
+-   [dMRI Validation](dMRI_validation/20201019-dmri_validation.md)
 
