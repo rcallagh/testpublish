@@ -9,7 +9,7 @@
         4.  [Thoughts](#org058ef67)
 
 -   **tags:** [dMRI Validation](20201019-dmri_validation.md)
--   **file:** <pdfs/Weston et al. - 2015 - Diffusion imaging changes in grey matter in Alzhei.pdf>
+-   **file:** [PDF](pdfs/Weston et al. - 2015 - Diffusion imaging changes in grey matter in Alzhei.pdf)
 
 
 <a id="Weston2015"></a>
